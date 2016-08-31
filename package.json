@@ -1,0 +1,29 @@
+{
+  "name": "legox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=local DEBUG=legox node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": "最好用的前端资源管理平台：不仅是简便的前端工程化平台，更是强大的网站静态化平台。",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legojs/legox.git"
+  },
+  "keywords": [
+    "lego"
+  ],
+  "author": "ronesam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legojs/legox/issues"
+  },
+  "homepage": "https://github.com/legojs/legox#readme"
+}
